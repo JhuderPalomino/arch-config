@@ -1,0 +1,8 @@
+alias upd="_ pacman -Syu ; yay -Syu"
+alias sdocker="_ systemctl start docker"
+alias pat="/home/majerhua/.screenlayout/pantalla.sh"
+alias c="clear"
+alias ins="_ pacman -S ; yay -S"
+alias del="_ pacman -Rs ; yay -Rs"
+alias h="cd ~"
+alias ue="sudo pacman -Rs $(pacman -Qtdq)"
